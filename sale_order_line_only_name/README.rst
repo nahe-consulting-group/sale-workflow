@@ -25,7 +25,7 @@ Sale order line description
 
 |badge1| |badge2| |badge3| |badge4| |badge5| 
 
-This module sets to use only product's sale description field on the sale order
+This module sets to use only product's NAME field on the sale order
 lines, instead of "Ref+Name+Sale Description".
 
 **Table of contents**
@@ -45,7 +45,7 @@ Usage
 =====
 
 #. Go to **Sales > Settings > Quotations & Orders** and check "Product Sale
-   description* to use only product sale description on the sales order lines.
+   description* to use only product name on the sales order lines.
 #. Go to **Setting > Users & Companies > Users** and check you have checked
    the "Use only product purchase description on order lines" access right for
    your user.
